@@ -1,0 +1,3 @@
+C:/HSE/Course_2/AVS/C++/Home_Programs/IDZ-4/program_2/cmake-build-debug/CMakeFiles/program_2.dir
+C:/HSE/Course_2/AVS/C++/Home_Programs/IDZ-4/program_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HSE/Course_2/AVS/C++/Home_Programs/IDZ-4/program_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

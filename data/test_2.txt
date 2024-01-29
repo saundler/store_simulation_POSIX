@@ -1,0 +1,4 @@
+buyersCount = 3
+buyerSleep = 5
+salesmanSleep = 1
+outputFile = ../data/ans_2.txt
